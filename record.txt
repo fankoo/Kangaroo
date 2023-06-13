@@ -1,0 +1,31 @@
+./kangaroo_o 63.txt                                                                                                                        ✔  7s 
+Kangaroo v2.2
+Start:4000000000000000
+Stop :8000000000000000
+Keys :1
+Number of CPU thread: 8
+Range width: 2^63
+Jump Avg distance: 2^30.98
+Number of kangaroos: 2^13.00
+Suggested DP: 15
+Expected operations: 2^32.59
+Expected RAM: 19.6MB
+DP size: 15 [0xfffe000000000000]
+SolveKeyCPU Thread 6: 1024 kangaroos
+SolveKeyCPU Thread 5: 1024 kangaroos
+SolveKeyCPU Thread 1: 1024 kangaroos
+SolveKeyCPU Thread 0: 1024 kangaroos
+SolveKeyCPU Thread 3: 1024 kangaroos
+SolveKeyCPU Thread 4: 1024 kangaroos
+SolveKeyCPU Thread 7: 1024 kangaroos
+SolveKeyCPU Thread 2: 1024 kangaroos
+[23.18 MK/s][GPU 0.00 MK/s][Count 2^33.20][Dead 0][08:00 (Avg 04:39)][11.2/35.1MB]
+Key# 0 [1S]Pub:  0x0365EC2994B8CC0A20D40DD69EDFE55CA32A54BCBBAA6B0DDCFF36049301A54579
+       Priv: 0x7CCE5EFDACCF6808
+
+Done: Total time 08:02
+
+
+
+
+
